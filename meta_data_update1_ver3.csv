@@ -1,0 +1,17 @@
+filename,target_value,feature_1,feature_2,feature_3
+#constraint,-,-,-,-
+cube.csv,15.4,1.24,0.55,3.1
+cube_scale_0.5.csv,12.1,0.88,0.71,2.95
+cube_scale_0.25.csv,18.2,1.52,0.4,3.55
+octahedron.csv,13.5,0.95,0.66,3.02
+octahedron_scale_0.5.csv,14.8,1.1,0.58,3.2
+octahedron_scale_0.25.csv,16.5,1.3,0.45,3.4
+sphere.csv,12.8,0.92,0.68,2.98
+sphere_scale_0.5.csv,17.6,1.45,0.42,3.5
+sphere_scale_0.25.csv,14.2,1.05,0.6,3.15
+tetrahedron.csv,15,1.18,0.52,3.25
+tetrahedron_scale_0.5.csv,11.5,0.85,0.75,2.85
+tetrahedron_scale_0.25.csv,19.1,1.6,0.35,3.65
+sphere.csv,15,1.1,0.5,3.1
+sphere_scale_0.5.csv,13,1.5,0.7,3.3
+sphere_scale_0.25.csv,15,0.9,0.5,2.8
